@@ -6,7 +6,7 @@
 * ⭐[send.vis.ee](https://send.vis.ee/) Send large files. Open source from Netherlands, many privacy options. Supported by Thunderbird.
 
 ## Documents
-* ⭐[pdfmerge.me](pdfmerge.me) Merge pdf. Offline, in browser, open source.
+* ⭐[pdfmerge.me](https://pdfmerge.me) Merge pdf. Offline, in browser, open source.
 * [Write Box](https://write-box.appspot.com/) - Sin distracciones. Exporta como html.
 * [Stack Edit](https://stackedit.io/editor) - Editor markdown.
 * [Protected Text](https://www.protectedtext.com/)
