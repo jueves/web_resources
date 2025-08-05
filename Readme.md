@@ -12,6 +12,7 @@
 * [Protected Text](https://www.protectedtext.com/)
 * [Print Friendly](http://www.printfriendly.com)
 * [iLovePDF](http://www.ilovepdf.com/) - Multiples transformaciones y ediciones de archivos PDF.
+* [eBook reader](app.flowoss.com)
 
 ## Multimedia
 * ⭐[https://vidmix.app/](https://vidmix.app/) Video editor. Webapp that runs locally. So private + not registering + no need to upload huge videos.
