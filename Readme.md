@@ -21,3 +21,6 @@
 * [Squoosh](https://squoosh.app/) Google's image compression service.
 * [Vectorizer.io](https://www.vectorizer.io/) Image vectorization.
 
+## Miscelanea
+* [RawGraphsSimple](https://www.rawgraphs.io/) Visual data exploration.
+
