@@ -2,7 +2,6 @@
 
 ## General
 * [DuckDuckGo](https://duckduckgo.com/?k5=1&kaj=m&kak=-1&kp=-1&kam=osm&kao=-1&kad=en_GB&kae=-1)
-* [BugMeNot](http://bugmenot.com/) Shared users and passwords.
 * ⭐[send.vis.ee](https://send.vis.ee/) Send large files. Open source from Netherlands, many privacy options. Supported by Thunderbird.
 
 ## Documents
@@ -22,5 +21,6 @@
 * [Vectorizer.io](https://www.vectorizer.io/) Image vectorization.
 
 ## Miscelanea
+* [BugMeNot](http://bugmenot.com/) Shared users and passwords.
 * [RawGraphsSimple](https://www.rawgraphs.io/) Visual data exploration.
-
+* [BoardReader](https://boardreader.com) Search engine with results from forums only.
