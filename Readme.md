@@ -24,3 +24,4 @@
 * [BugMeNot](http://bugmenot.com/) Shared users and passwords.
 * [RawGraphsSimple](https://www.rawgraphs.io/) Visual data exploration.
 * [BoardReader](https://boardreader.com) Search engine with results from forums only.
+* ⭐[GeoUtil](https://geoutil.com/) Free Online Map & Geography Tools. Distance, areas, local web app.
