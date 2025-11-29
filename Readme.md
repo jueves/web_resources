@@ -25,3 +25,4 @@
 * [RawGraphsSimple](https://www.rawgraphs.io/) Visual data exploration.
 * [BoardReader](https://boardreader.com) Search engine with results from forums only.
 * ⭐[GeoUtil](https://geoutil.com/) Free Online Map & Geography Tools. Distance, areas, local web app.
+* [webR](https://webr.sh/) R in the browser, runs locally. (Project repo [here](https://github.com/r-wasm/webr))
