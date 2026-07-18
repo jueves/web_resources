@@ -17,7 +17,7 @@
 * ⭐[https://vidmix.app/](https://vidmix.app/) Video editor. Webapp that runs locally. So private + not registering + no need to upload huge videos.
 * [iLoveIMG](http://www.iloveimg.com/) Image transformations.
 * [Online-Convert.com](http://audio.online-convert.com/) Audio conversions.
-* [Squoosh](https://squoosh.app/) Google's image compression service.
+* [Squoosh](https://squoosh.app/) Google's image compression service. Runs locally.
 * [Vectorizer.io](https://www.vectorizer.io/) Image vectorization.
 
 ## Miscelanea
@@ -25,3 +25,4 @@
 * [RawGraphsSimple](https://www.rawgraphs.io/) Visual data exploration.
 * [BoardReader](https://boardreader.com) Search engine with results from forums only.
 * ⭐[GeoUtil](https://geoutil.com/) Free Online Map & Geography Tools. Distance, areas, local web app.
+* [Oblique Strategies](https://stoney.sb.org/eno/oblique.html) card system to promote creativity and get unstuck.
