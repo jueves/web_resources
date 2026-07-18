@@ -26,3 +26,4 @@
 * [BoardReader](https://boardreader.com) Search engine with results from forums only.
 * ⭐[GeoUtil](https://geoutil.com/) Free Online Map & Geography Tools. Distance, areas, local web app.
 * [Oblique Strategies](https://stoney.sb.org/eno/oblique.html) card system to promote creativity and get unstuck.
+* [webR](https://webr.sh/) R in the browser, runs locally. (Project repo [here](https://github.com/r-wasm/webr))
